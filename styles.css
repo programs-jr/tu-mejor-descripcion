@@ -29,7 +29,7 @@ color: #af7ead
 .sobre {
  height: 395px;
  width: 358px;
- background-color: #c493c3;
+ background: linear-gradient(to bottom right, #c493c3, white, #c493c3);
  border-radius: 12px;
  top: 123px;
  position: absolute;
